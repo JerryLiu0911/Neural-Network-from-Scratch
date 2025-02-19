@@ -1,2 +1,2 @@
 # Neural-Network-from-Scratch
-Simple neural network without to demonstrate mathematical understanding. 
+Simple neural network without neural network libraries to demonstrate mathematical understanding. 
